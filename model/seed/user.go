@@ -12,6 +12,6 @@ var User = entity.User{
 	FullName: "superadmin",
 	Email:    "superadmin@gmail.com",
 	Password: string(passwordHash),
-	Role:     "superadmin",
+	Role:     "admin",
 	Balance:  0,
 }
